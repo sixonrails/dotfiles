@@ -1,0 +1,38 @@
+# Aliases
+
+# Pacman
+
+alias pacins="sudo pacman -S"
+alias pacup="sudo pacman -Syu"
+alias pacsrc="sudo pacman -Ss"
+alias pacrem="sudo pacman -Rcns"
+alias paccle="sudo pacman -Sccc"
+
+# Editors
+
+alias v="vim"
+alias nv="nvim"
+
+# Wrappers
+
+alias l="ls -la --color=auto"
+alias ls="ls --color=auto"
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+
+
+# Git 
+
+alias gcom="git commit"
+alias gstt="git status"
+alias gck="git checkout"
+alias gad="git add --all"
+alias gclone="git clone"
+
+# Random
+
+alias clm='curl "https://wttr.in/?Q"'
+alias aud="ytfzf -m"
+alias vid="ytfzf"

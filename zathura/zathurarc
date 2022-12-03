@@ -1,0 +1,9 @@
+set font "Cozette"
+set adjust-open width
+set selection-clipboard clipboard
+set guioptions m
+set statusbar-home-tilde 1
+
+
+
+

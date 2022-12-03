@@ -1,0 +1,17 @@
+
+[flags]
+
+current_usage = false
+group_processes = false
+regex = true
+temperature_type = "celsius"
+basic = false
+color = "nord"
+mem_as_value = true
+
+
+
+
+
+
+
